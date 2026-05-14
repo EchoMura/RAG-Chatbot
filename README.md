@@ -13,9 +13,6 @@ A modern **Retrieval-Augmented Generation (RAG)** chatbot built with Next.js 14,
 ### Main Chat Interface
 ![Chatbot Screenshot](public/screenshot.png)
 
-### Demo Video
-[▶️ Watch Demo (MP4)](public/video.mp4)
-
 ---
 
 ## ✨ Features
